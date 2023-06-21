@@ -1,0 +1,13 @@
+Direcciones de mi VM
+*********************
+
+* IP privada y pública:
+   - IP Privada: 10.0.2.15
+   - IP Pública: 179.6.48.155
+
+*La dirección MAC:
+   -MAC: 08:00:27:38:02:73
+
+* ¿Es diferente a la IP pública y privada de nuestra máquina host?
+   - La IP privada de mi máquina virtual  es diferente a la de la máquina host, porque pertenecen a ambitos distintos; sin embargo tuve ambas direcciones IP públicas iguales.
+    
